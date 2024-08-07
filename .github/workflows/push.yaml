@@ -19,7 +19,7 @@ jobs:
         with:
           organization: 'yaroslav-prod'
           project: 'delete-test'
-          mountPath: '/'
+          mountPath: '/a'
           files: 'README.md'
           domain: 'https://app.cloud.redocly.com'
         env:
