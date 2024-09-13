@@ -1,5 +1,5 @@
 # test-delete
 
-main-3
+ABC
 
 main-4
